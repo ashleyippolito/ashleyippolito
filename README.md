@@ -27,13 +27,12 @@ My research examines **children's written language development**, with a focus o
 
 ## <img src="https://img.icons8.com/fluency/28/bookmark-ribbon.png" width="26" /> Featured: ScriptToolKit
 
-**ScriptToolKit** is a suite of automated tools for equitable, theory-informed analysis of children's writing — actively used in research and validated against third-grade narrative data.
+**ScriptToolKit** is an integrated pipeline for equitable, theory-informed analysis of children's writing — actively used in research and validated against third-grade narrative data.
 
 | Tool | Purpose |
 |------|---------|
-| **ScriptSense** | Automated linguistic analysis of written samples |
-| **ScriptPrep** | Data preparation pipeline for writing corpora |
-| **ScriptGuide** | Guidance framework for assessment implementation |
+| **ScriptPrep** | Data preparation and corpus-building pipeline for writing samples |
+| **ScriptSense** | Automated linguistic and morphological analysis of written output |
 
 <div align="center">
 
