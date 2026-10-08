@@ -12,7 +12,7 @@
 
 I'm a **PhD Candidate in Communication Sciences & Disorders at Florida State University** (TP-3 Training Grant) and a **Technical Product Manager – Research at [Cobalt Speech and Language](https://www.cobaltspeech.com/)**. I hold a CCC-SLP license and an MS in Speech-Language Pathology from the University of the Pacific, plus dual BS degrees in Cognitive Science and Linguistics from UC Santa Cruz.
 
-My research examines **children's written language development**, with a focus on morphological knowledge and the use of computational methods for large-scale language analysis. I believe rigorous science should be accessible — and translate directly into better outcomes for kids and families.
+My research examines how children’s knowledge of language, from the structure of words to the statistical patterns of text, shapes their development as readers and writers. I am especially interested in morphology and in how the language children encounter in print builds the lexical knowledge that skilled reading depends on. I pair computational methods, including natural language processing and language models, with developmental literacy research to make that underlying knowledge measurable. My broader goal is to turn this work into scalable, low-burden tools that help clinicians and educators identify and support struggling readers.
 
 ---
 
